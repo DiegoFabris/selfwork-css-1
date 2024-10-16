@@ -1,0 +1,26 @@
+h1, h2, h3{
+    font-family: "Montserrat", sans-serif;
+    
+}
+
+p{
+    font-family: "Roboto", sans-serif;
+}
+
+h3{
+    color: yellowgreen;
+    background-color: yellow;
+}
+
+h1{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl9n6K5tg0XVqV0MDHJEpf-EtgGqI21DrWKQ&s)
+}
+
+a:hover{
+    background-color: yellow;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
